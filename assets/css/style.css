@@ -1,0 +1,118 @@
+/*Global styles*/
+/*background image from Subtle Patterns */
+
+body {
+    background-color: lightblue;
+}
+
+/*header*/
+
+.header {
+    width: 45%;
+    margin-left: 27%;
+    text-align: center;
+    background-color: Orange;
+    border: 8px solid orange;
+    color: white;
+    
+}
+
+.instructions {
+    width: 75%;
+    margin: 4% 0 0 11%;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: cornflowerblue;
+    border: 2px solid;
+}
+
+.random-number {
+    width: 35%;
+    text-align: left;
+    background-color: lightgreen;
+    border: 8px solid lightgreen;
+    margin: 1%;
+    font-size: 30px;
+    border-top-color: lightgreen;
+    border-right-color: lightgreen;
+    border-bottom-color: lightgreen;
+    border-left-color: lightgreen;
+}
+
+.crystal-array {
+    text-align: center;
+    background-color: white;
+    border: 2px solid white;
+    width: 50%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: 1% 0 0 1%;
+}
+
+.jewel {
+    height: 80px;
+    width: 80px;
+    border: 15px solid;
+    margin: 0 2% 0 3%;
+}
+
+.red {
+    border-top-color: red;
+    border-right-color: red;
+    border-bottom-color: red;
+    border-left-color: red;
+    background-color: red;
+}
+
+.blue {
+    border-top-color: blue;
+    border-right-color: blue;
+    border-bottom-color: blue;
+    border-left-color: blue;
+    background-color: blue;
+}
+
+.yellow {
+    border-top-color: yellow;
+    border-right-color: yellow;
+    border-bottom-color: yellow;
+    border-left-color: yellow;
+    background-color: yellow;
+}
+
+.green {
+    border-top-color: green;
+    border-right-color: green;
+    border-bottom-color: green;
+    border-left-color: green;
+    background-color: green;
+}
+
+.total-score {
+    float: left;
+    position: relative;
+    text-align: center;
+    background-color: teal;
+    border: 8px solid teal;
+    font-size: 3em;
+    width: 26%;
+    margin: 2% 0 0 22%;
+    padding-bottom: 12px;
+}
+
+.wins-losses {
+    float: right;
+    position: relative;
+    text-align: center;
+    width: 40%;
+    background-color: purple;
+    border: 8px solid purple;
+    margin-top: 5%;
+    margin-right: 5%;
+    font-size: 15px;
+    
+}
+
+
+
+}
